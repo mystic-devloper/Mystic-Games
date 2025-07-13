@@ -1,0 +1,31 @@
+This copy of the libpng notices is provided for your convenience.
+In case of any discrepancy between this and the official notices,
+the latter shall prevail.
+
+COPYRIGHT NOTICE, DISCLAIMER, and LICENSE:
+
+This code is released under the libpng license.
+
+libpng version 1.6.40 - July 2023
+Copyright (c) 1998-2023 Glenn Randers-Pehrson
+Copyright (c) 1996-1997 Andreas Dilger
+Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+
+This software is provided "as is", without warranty of any kind,
+express or implied. In no event shall the authors be liable for
+any damages arising in any way out of the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software
+   in a product, an acknowledgment in the product documentation would
+   be appreciated but is not required.
+
+2. Altered source versions must be plainly marked as such, and must not
+   be misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.
+
