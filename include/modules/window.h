@@ -1,5 +1,5 @@
-#ifndef __MYSTIC_GAMES_WINDOW_H__
-#define __MYSTIC_GAMES_WINDOW_H__
+#ifndef MYSTIC_GAMES_WINDOW_H_
+#define MYSTIC_GAMES_WINDOW_H_
 
 // Include Standard Library
 #include <iostream>
@@ -50,4 +50,4 @@ private:
 
 } // namespace mystic
 
-#endif // __MYSTIC_GAMES_WINDOW_H__
+#endif // MYSTIC_GAMES_WINDOW_H_

@@ -1,5 +1,5 @@
-#ifndef __MYSTIC_GAMES_TYPES_H__
-#define __MYSTIC_GAMES_TYPES_H__
+#ifndef MYSTIC_GAMES_TYPES_H_
+#define MYSTIC_GAMES_TYPES_H_
 
 #include <cstdint>  // For uint8_t, int32_t, etc.
 #include <cstddef>  // For size_t, ssize_t
@@ -67,4 +67,4 @@ constexpr f64 GOLDEN_RATIO_F64 = 1.61803398874989484820;
 
 } // namespace mystic
 
-#endif // __MYSTIC_GAMES_TYPES_H__
+#endif // MYSTIC_GAMES_TYPES_H_

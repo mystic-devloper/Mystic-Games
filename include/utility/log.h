@@ -1,5 +1,5 @@
-#ifndef __MYSTIC_GAMES_LOG_H__
-#define __MYSTIC_GAMES_LOG_H__
+#ifndef MYSTIC_GAMES_LOG_H_
+#define MYSTIC_GAMES_LOG_H_
 
 #include <cstdio>   // For snprintf
 #include <cstdarg>  // For va_list
@@ -91,6 +91,8 @@ inline void default_console_logger(LogLevel level, const char* message, const ch
   }
 }
 
+#define ASSERT(expr, ...) if (!(expr)) { fprintf(stderr, __VA_ARGS__); exit(1) }
+
 } // namespace mystic
 
-#endif // __MYSTIC_GAMES_LOG_H__
+#endif // MYSTIC_GAMES_LOG_H_
